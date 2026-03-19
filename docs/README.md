@@ -14,6 +14,7 @@ Comprehensive documentation for the Get Shit Done (GSD) framework — a meta-pro
 | [Agent Reference](AGENTS.md) | Contributors, advanced users | All 15 specialized agents — roles, tools, spawn patterns |
 | [User Guide](USER-GUIDE.md) | All users | Workflow walkthroughs, troubleshooting, and recovery |
 | [Context Monitor](context-monitor.md) | All users | Context window monitoring hook architecture |
+| [equitAI Analysis](equitai-analysis.md) | All users | How GSD can help the equitAI equity analysis platform |
 
 ## Quick Links
 
